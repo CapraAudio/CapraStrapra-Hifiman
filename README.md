@@ -1,7 +1,7 @@
 # Capra Hifiman Comfort Strap
 
 This is a headband strap replacement for the Hifiman Padded Headband series of headphones.
-(HE400se, HE400i, Edition XS, Deva, HE-R9, HE-R10D, HE-R10P)
+(HE400se, HE400i, Edition XS, Deva, HE-R9, HE-R10D, He-R10p, HE6se)
 This may fit on other hifiman headphones but it it uncomfirmed at this time.
 
 You can purchase a premade version here!
