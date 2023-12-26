@@ -8,7 +8,7 @@ This Comfort Strap is designs for most 'HE-400' style headphones Hifiman makes. 
 
 ## Premade Straps
 
-You can purchase a premade version [here on our etsy page](https://www.etsy.com/listing/1606114182/focal-comfort-strap)!<br>**Do note that you will still have to install it yourself**, though it will be 3d printed before shipping.
+You can purchase a premade version [here on our etsy page](https://www.etsy.com/listing/1548705110/hifiman-comfort-strap)!<br>**Do note that you will still have to install it yourself**, though it will be 3d printed before shipping.
 
 ---
 
@@ -17,5 +17,5 @@ You can purchase a premade version [here on our etsy page](https://www.etsy.com/
 - [Installation Instructions](https://github.com/CapraAudio/CapraStrapra-Hifiman/blob/main/Install-Instructions.md)
 - [Printing Instructions](https://github.com/CapraAudio/CapraStrapra-Hifiman/blob/main/Printing-Instructions.md)
 - [Support Discord](https://discord.com/invite/fb4HdDvErF)
-- [Etsy Page](https://www.etsy.com/listing/1606114182/focal-comfort-strap)
+- [Etsy Page](https://www.etsy.com/listing/1548705110/hifiman-comfort-strap)
 - [Squig.Link](https://capraaudio.squig.link/Headphones/)
