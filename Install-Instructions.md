@@ -1,4 +1,7 @@
 # Install Instructions
+
+Video[here](https://www.youtube.com/watch?v=zgvDYnPB7Ls)! 
+
 Wrap the ends of the Comfort Strap Around the Yokes of the Heaband making sure the beveled side is down
 ![20230909_113802](https://github.com/CapraAudio/CapraStrapra-Hifiman/assets/122894651/7939391b-88bb-4765-9acc-11bc64145036)
 
